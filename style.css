@@ -23,7 +23,6 @@ Text Domain: nombre-del-tema*/
     margin: 0 auto;
 }
 
-/* === Encabezado === */
 .encabezado {
     background: #1b1b2f;
     padding: 20px 0;
@@ -62,9 +61,9 @@ Text Domain: nombre-del-tema*/
     color: #fff;
 }
 
-/* === Página de inicio === */
-
-.inicio { text-align: center;}
+.inicio {
+    text-align: center;
+}
 
 .inicio__introduccion {
     text-align: center;
@@ -110,7 +109,6 @@ Text Domain: nombre-del-tema*/
     color: #23233a;
 }
 
-/* === Pie de página === */
 .pie {
     background: #1b1b2f;
     padding: 20px 0;

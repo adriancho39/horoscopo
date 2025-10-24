@@ -16,7 +16,7 @@
             <h1 class="encabezado__titulo">
                 <a href="" class="encabezado__enlace"></a>
             </h1>
-            <p class=" encabezado__descripcion">bloginfo</p>
+            <p class=" encabezado__descripcion">Tu hosróscopo diario a golpe de click</p>
         </div>
 
         <nav class="menu-zodiaco">

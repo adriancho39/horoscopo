@@ -17,8 +17,6 @@ Text Domain: nombre-del-tema*/
     color: #fff;
 }
 
-body {}
-
 .contenedor {
     width: 90%;
     max-width: 1200px;
@@ -65,6 +63,9 @@ body {}
 }
 
 /* === Página de inicio === */
+
+.inicio { text-align: center;}
+
 .inicio__introduccion {
     text-align: center;
     margin-top: 40px;

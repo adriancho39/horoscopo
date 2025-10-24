@@ -1,9 +1,123 @@
-/* Theme Name: Tienda
+/* Theme Name: Horóscopo
 Theme URI: https://www.ejemplo.com
-Author: Tu Nombre
+Author: ¡Aparcao!
 Author URI: https://www.tusitio.com
 Description: Breve descripción del tema.
 Version: 1.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: nombre-del-tema*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background: #0b0b1a;
+    color: #fff;
+}
+
+body {}
+
+.contenedor {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* === Encabezado === */
+.encabezado {
+    background: #1b1b2f;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.encabezado__titulo a {
+    color: #ffcc70;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+.encabezado__descripcion {
+    margin-top: 5px;
+    color: #ccc;
+}
+
+.menu-zodiaco__lista {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.menu-zodiaco__enlace {
+    color: #ffcc70;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.menu-zodiaco__enlace:hover {
+    color: #fff;
+}
+
+/* === Página de inicio === */
+.inicio__introduccion {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.inicio__titulo {
+    font-size: 2rem;
+    color: #ffcc70;
+}
+
+.inicio__texto {
+    color: #ddd;
+}
+
+.inicio__rejilla {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 15px;
+    text-align: center;
+    margin: 40px 0;
+}
+
+.signo-zodiaco {
+    background: #23233a;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.signo-zodiaco__enlace {
+    display: block;
+    padding: 20px;
+    color: #ffcc70;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.signo-zodiaco:hover {
+    background: #ffcc70;
+}
+
+.signo-zodiaco:hover .signo-zodiaco__enlace {
+    color: #23233a;
+}
+
+/* === Pie de página === */
+.pie {
+    background: #1b1b2f;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.pie__texto,
+.pie__credito {
+    color: #ccc;
+    margin: 5px 0;
+}

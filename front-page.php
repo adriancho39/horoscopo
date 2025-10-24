@@ -9,12 +9,12 @@
     <img src="/wp-content/themes/Horóscopo/img/col.webp" alt="" class="horoscopo">
 
     <section class="inicio__rejilla contenedor">
-        <div class="signo-zodiaco"><a class="signo-zodiaco__enlace" href="#">Aries <img src="/wp-content/themes/Horóscopo/img/aries.png" alt="aries"></a></div>
-        <div class="signo-zodiaco"><a class="signo-zodiaco__enlace" href="#">Tauro <img src="/wp-content/themes/Horóscopo/img/tauro.png" alt="tauro"></a></div>
+        <div class="signo-zodiaco"><a class="signo-zodiaco__enlace" href="http://horscopo.local/aries/">Aries <img src="/wp-content/themes/Horóscopo/img/aries.png" alt="aries"></a></div>
+        <div class="signo-zodiaco"><a class="signo-zodiaco__enlace" href="http://horscopo.local/tauro/">Tauro <img src="/wp-content/themes/Horóscopo/img/tauro.png" alt="tauro"></a></div>
         <div class="signo-zodiaco"><a class="signo-zodiaco__enlace" href="#">Géminis <img src="/wp-content/themes/Horóscopo/img/geminis.png" alt="geminis"></a></div>
         <div class="signo-zodiaco"><a class="signo-zodiaco__enlace" href="#">Cáncer <img src="/wp-content/themes/Horóscopo/img/cancer.png" alt="cancer"></a></div>
         <div class="signo-zodiaco"><a class="signo-zodiaco__enlace" href="#">Leo <img src="/wp-content/themes/Horóscopo/img/leo.png" alt="leo"></a></div>
-        <div class="signo-zodiaco"><a class="signo-zodiaco__enlace" href="#">Virgo <img src="/wp-content/themes/Horóscopo/img/virgo.png" alt="virgo"></a></div>
+        <div class="signo-zodiaco"><a class="signo-zodiaco__enlace" href="http://horscopo.local/virgo/">Virgo <img src="/wp-content/themes/Horóscopo/img/virgo.png" alt="virgo"></a></div>
         <div class="signo-zodiaco"><a class="signo-zodiaco__enlace" href="#">Libra<img src="/wp-content/themes/Horóscopo/img/libra.png" alt="libra"></a></div>
         <div class="signo-zodiaco"><a class="signo-zodiaco__enlace" href="#">Escorpio <img src="/wp-content/themes/Horóscopo/img/escorpio.png" alt=""></a></div>
         <div class="signo-zodiaco"><a class="signo-zodiaco__enlace" href="#">Sagitario <img src="/wp-content/themes/Horóscopo/img/sagitario.png" alt="sagitario"></a></div>

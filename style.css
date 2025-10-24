@@ -120,3 +120,50 @@ Text Domain: nombre-del-tema*/
     color: #ccc;
     margin: 5px 0;
 }
+
+.body {
+    background-color: #171c1ae0;
+
+}
+
+.main {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.main__cont {
+    border: 2px solid #1f201d;
+    background-color: #818775;
+    width: 500px;
+    height: auto;
+    border-radius: 39px;
+    box-shadow: 10px 10px black;
+
+}
+
+.main__cont p {
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.main__cont h2 {
+    padding-left: 30px;
+    color: #3b280a;
+    text-transform: uppercase;
+}
+
+.cont__tauro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img__t {
+    width: 300px;
+    height: auto;
+    border-radius: 50%;
+    padding-top: 15px;
+}

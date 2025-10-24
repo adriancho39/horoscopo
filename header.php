@@ -21,12 +21,12 @@
 
         <nav class="menu-zodiaco">
             <ul class="menu-zodiaco__lista">
-                <li class="menu-zodiaco__item"><a class="menu-zodiaco__enlace" href="#">Aries</a></li>
-                <li class="menu-zodiaco__item"><a class="menu-zodiaco__enlace" href="#">Tauro</a></li>
+                <li class="menu-zodiaco__item"><a class="menu-zodiaco__enlace" href="http://horscopo.local/aries/">Aries</a></li>
+                <li class="menu-zodiaco__item"><a class="menu-zodiaco__enlace" href="http://horscopo.local/tauro/">Tauro</a></li>
                 <li class="menu-zodiaco__item"><a class="menu-zodiaco__enlace" href="#">Géminis</a></li>
                 <li class="menu-zodiaco__item"><a class="menu-zodiaco__enlace" href="#">Cáncer</a></li>
                 <li class="menu-zodiaco__item"><a class="menu-zodiaco__enlace" href="#">Leo</a></li>
-                <li class="menu-zodiaco__item"><a class="menu-zodiaco__enlace" href="#">Virgo</a></li>
+                <li class="menu-zodiaco__item"><a class="menu-zodiaco__enlace" href="http://horscopo.local/virgo/">Virgo</a></li>
                 <li class="menu-zodiaco__item"><a class="menu-zodiaco__enlace" href="#">Libra</a></li>
                 <li class="menu-zodiaco__item"><a class="menu-zodiaco__enlace" href="#">Escorpio</a></li>
                 <li class="menu-zodiaco__item"><a class="menu-zodiaco__enlace" href="#">Sagitario</a></li>

@@ -19,7 +19,7 @@
 
             </article>
             <h2>Del 20 al 26 de octubre</h2>
-            <p> 👁‍🗨 Virgo, Esta semana, Aries, la comunicación honesta y directa será tu mejor aliada, especialmente en el amor. Si hay algo que necesitas decir, hazlo con tacto, pero sin rodeos. </p>
+            <p> 👁‍🗨 Virgo, Esta semana, Virgo, la comunicación honesta y directa será tu mejor aliada, especialmente en el amor. Si hay algo que necesitas decir, hazlo con tacto, pero sin rodeos. </p>
             <p> 💲 En el ámbito laboral, podrías estar en una buena racha para cerrar acuerdos o tener conversaciones importantes que impulsen tus proyectos. El equilibrio es clave: aprovecha tu energía para avanzar, pero no te aísles. Busca el apoyo de tus seres queridos para mantener tu bienestar emocional. Cuida de tu salud prestando atención a tu alimentación. ¡Tu valentía te abrirá nuevas puertas!</p>
         
 
